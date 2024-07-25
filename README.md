@@ -6,7 +6,7 @@ spotholedev@gmail.com
 
 +1 (609) 865 - 6995
 
-[LinkedIn]https://www.linkedin.com/in/spothole-8643b131b/
+[LinkedIn](https://www.linkedin.com/in/spothole-8643b131b/)
 
 ## Privacy Policy
 
