@@ -48,3 +48,5 @@ Depending on your location, you may have the following rights regarding your per
 
 The right to access: You have the right to request copies of your personal data.
 The right to rectification: You have the right to request that we correct any information you believe is inaccurate or complete information you believe
+
+#### Developed by Aman Wakankar and Taran Patibanda
