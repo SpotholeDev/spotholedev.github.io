@@ -26,7 +26,7 @@ Effective Date: 7/24/24
 
 3. How We Use Your Information
 
-  We use the information we collect for the following purposes:
+    We use the information we collect for the following purposes:
 
     To provide and maintain our service: Including authenticating your identity, processing your photos, and recording pothole locations.
     To improve our service: Analyzing the data to enhance our app’s functionality and user experience. 
