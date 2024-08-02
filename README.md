@@ -1,4 +1,4 @@
-This is the official Spothole Support page!
+This is the official Spothole Support page! Download Spothole [here](https://apps.apple.com/us/app/spothole/id6575346031) to transform your roads today!
 
 ## Contact Us
 
